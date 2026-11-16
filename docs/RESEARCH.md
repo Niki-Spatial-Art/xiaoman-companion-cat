@@ -53,4 +53,4 @@
 
 ## 微光、方格图样与长者共创
 
-新增材料与交互参考包括LumiPets、LIEWOOD Samson和Smooth-On Ecoflex。长者手作机制参考英国The Big Knit和日本BEYOND THE REEF；方格设计与像素衍生品参考V&A编织图样史、Hama和Perler的公开图样。来源、适用范围及小满的设计转化见[微光与长者手作](COCREATION.md)。
+材料与交互参考包括LumiPets、LIEWOOD Samson和Smooth-On Ecoflex。长者手作机制参考英国The Big Knit和日本BEYOND THE REEF；方格设计参考V&A编织图样史和Hama。配件版型参考Misha & Puff的Crochet Headscarf与Chouette Crochet Beret，拼豆实物参考Perler樱桃包挂与花朵杯垫，角色图标参考Donna Wilson木质猫徽章。小满据此设计红色短领巾、湖蓝浅贝雷帽、奶白猫头像与花朵杯垫。原始链接、适用范围及设计转化见[微光与长者手作](COCREATION.md)。
