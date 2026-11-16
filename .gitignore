@@ -1,0 +1,12 @@
+# Local development and credentials
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
+codex-work/
+CODEX_PROJECT_MEMORY.md
