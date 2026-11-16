@@ -50,3 +50,7 @@
 | [LOVOT](https://lovot.life/) | “愛されるために生まれてきた”，表达为被爱而生 | 使用者也有表达喜欢、主动亲近的空间 |
 
 小满据此形成自己的主张：“有伴的日子，刚刚好。”以触摸、家常和生活小事承载相处，原型验证聚焦交互可用性与再次互动意愿。
+
+## 微光、方格图样与长者共创
+
+新增材料与交互参考包括LumiPets、LIEWOOD Samson和Smooth-On Ecoflex。长者手作机制参考英国The Big Knit和日本BEYOND THE REEF；方格设计与像素衍生品参考V&A编织图样史、Hama和Perler的公开图样。来源、适用范围及小满的设计转化见[微光与长者手作](COCREATION.md)。
